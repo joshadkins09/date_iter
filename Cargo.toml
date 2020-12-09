@@ -1,6 +1,6 @@
 [package]
 name = "date_iter"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["jadkins"]
 description = "Simple date iterator"
 homepage = "https://github.com/joshadkins09/date_iter"
