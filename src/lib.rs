@@ -13,7 +13,7 @@ pub struct DateIter {
 }
 
 impl DateIter {
-    fn new(start: NaiveDate, stop: NaiveDate) -> Self {
+    pub fn new(start: NaiveDate, stop: NaiveDate) -> Self {
         Self {
             cur: start,
             stop: stop,
