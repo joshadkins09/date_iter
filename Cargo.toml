@@ -2,7 +2,7 @@
 name = "date_iter"
 version = "0.1.0"
 authors = ["jadkins"]
-description = "Simple iterator for date ranges"
+description = "Simple date iterator"
 homepage = "https://github.com/joshadkins09/date_iter"
 # documentation = "https://docs.rs/date_iter/"
 repository = "https://github.com/joshadkins09/date_iter"
